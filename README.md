@@ -29,4 +29,4 @@ npx expo start
 ## Here is a sample 
 
 
-![Login Screen UI](https://raw.githubusercontent.com/CoderAyushman/my-task/main/assets/images/loginscreenui.jpg)
+![Login Screen UI](https://github.com/CoderAyushman/login-screen-ui-react-native/blob/main/assets/images/loginscreenui.jpg)
