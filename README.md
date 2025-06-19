@@ -17,13 +17,16 @@ This is a simple React Native app built with **Expo** and **Firebase Authenticat
 ## Get started
 
 # 1. Clone the repo
-git clone https://github.com/your-username/expo-login-ui.git
-cd expo-login-ui
+git clone https://github.com/CoderAyushman/login-screen-ui-react-native.git
+cd login-screen-ui-react-native
 
 # 2. Install dependencies
 npm install
-# or
-yarn
 
 # 3. Start the Expo app
 npx expo start
+---
+## Here is a sample 
+
+
+![Login Screen UI](https://raw.githubusercontent.com/CoderAyushman/my-task/main/assets/images/loginscreenui.jpg)
